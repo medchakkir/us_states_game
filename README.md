@@ -23,7 +23,7 @@ An interactive educational game that helps users learn and memorize the names an
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali01/us_states_game.git
+git clone https://github.com/<username>/us_states_game.git
 cd us_states_game
 ```
 
